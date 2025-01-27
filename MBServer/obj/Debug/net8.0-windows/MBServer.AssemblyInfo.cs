@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MBServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+becd2cf7d09030f004b18a0570a638e966241c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+030c65ef600811ddd2a3bbede034b7f2a085f36d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MBServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MBServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

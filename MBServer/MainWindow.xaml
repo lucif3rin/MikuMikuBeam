@@ -6,8 +6,8 @@
         xmlns:local="clr-namespace:MBServer"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <TextBox HorizontalAlignment="Center" Height="217" TextWrapping="Wrap" Text="Miku Miku Beam" VerticalAlignment="Top" Width="800" TextChanged="TextBox_TextChanged"/>
-
+    <Grid Background="Navy">
+        <TextBox Background="Navy" Foreground="Red" FontSize="72" FontFamily="Comic Sans MS" HorizontalAlignment="Right" Height="217" TextWrapping="Wrap" Text="Miku Miku Beam" VerticalAlignment="Top" Width="679" TextChanged="TextBox_TextChanged"/>
+        <Button Height="64" Width="512" TextBlock.FontFamily="Comic Sans Ms" TextBlock.FontSize="32" TextBlock.Foreground="Navy" Background="Red">Fire Jewish Space Laser</Button>
     </Grid>
 </Window>

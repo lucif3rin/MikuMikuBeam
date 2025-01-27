@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MBServer
-build_property.ProjectDir = E:\Projects\C#.NET\MikuMikuBeam\MikuMikuBeam\MBServer\
+build_property.ProjectDir = E:\Projects\C#.NET\MikuMikuBeam\MBServer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

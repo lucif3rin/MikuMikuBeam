@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\C#.NET\\MikuMikuBeam\\MikuMikuBeam\\MBServer\\MBServer.csproj",
+      "projectUniqueName": "E:\\Projects\\C#.NET\\MikuMikuBeam\\MBServer\\MBServer.csproj",
       "projectName": "MBServer",
-      "projectPath": "E:\\Projects\\C#.NET\\MikuMikuBeam\\MikuMikuBeam\\MBServer\\MBServer.csproj",
+      "projectPath": "E:\\Projects\\C#.NET\\MikuMikuBeam\\MBServer\\MBServer.csproj",
       "packagesPath": "C:\\Users\\Johnathan\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\C#.NET\\MikuMikuBeam\\MikuMikuBeam\\MBServer\\obj\\",
+      "outputPath": "E:\\Projects\\C#.NET\\MikuMikuBeam\\MBServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
